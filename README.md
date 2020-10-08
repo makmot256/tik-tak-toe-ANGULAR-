@@ -1,2 +1,3 @@
-# tik-tak-toe-ANGULAR-
-web app game that operates using angular 
+# Angular Tic-Tac-Toe PWA
+
+[Full Angular Course](https://fireship.io/courses/angular/)
